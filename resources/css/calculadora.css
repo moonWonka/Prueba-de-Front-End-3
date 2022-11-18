@@ -1,0 +1,41 @@
+body {
+    height: 90vh;
+    text-align: center;
+    background-image: url('/resources/images/pexels-ben-mack-5326901.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+main {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    height: 100%;
+    width: 100%;
+}
+
+div {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    width: 40%;
+    height: 30%;
+    background-color: #88C9F2;
+    border: solid 2px #D955AA;
+    color: #fff;
+    text-shadow: 1px 1px 3px black; 
+    font-size: larger;
+
+}
+
+input {
+    font-size: 18px;
+    width: 60%;
+    height: 30px;
+    text-align: center;
+    margin-bottom: 20px;
+    margin: 10px;
+}

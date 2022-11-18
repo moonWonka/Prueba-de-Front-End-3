@@ -1,0 +1,12 @@
+body {
+    height: 90vh;
+    text-align: center;
+    background-color: #88C9F2;
+    text-transform: capitalize;
+}
+
+
+input {
+    padding: 4px;
+    border: solid 2px #F29B30;
+}

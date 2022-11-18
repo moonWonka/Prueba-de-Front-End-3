@@ -1,0 +1,17 @@
+body {
+    text-align: center;
+    background-color: #88C9F2;
+}
+
+h1 {
+    font-size: 50px;
+    color: #F29B30;
+    text-shadow: 2px 2px 2px #000;
+}
+
+.listas {
+    background-color: #F29B30;
+    border: solid 1px #D955AA;
+    font-weight: bolder;
+    text-transform: capitalize;
+}
